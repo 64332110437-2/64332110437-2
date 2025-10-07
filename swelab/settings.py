@@ -1,3 +1,4 @@
+# Lab 2 - Second commit test
 """
 Django settings for swelab project.
 
